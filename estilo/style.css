@@ -184,6 +184,10 @@ aside > ul {
     columns: 2;
 }
 
+abbr{
+    text-decoration: none;
+}
+
 footer {
     background-color: var(--cor5);
     color: white;
